@@ -1,0 +1,8 @@
+{
+    "name": "projeto-link",
+    "description": "descrição",
+    "version": "0.1",
+    "dependencies": {
+        "bulma": "^0.9.4"
+    }
+}

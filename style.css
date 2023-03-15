@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+
+.class-pao-de-queijo{
+    font-size: 30px;
+    background-color: #004aad;
+    color: white;
+    height: auto;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+    
+li{
+     list-style-type: none;
+}
